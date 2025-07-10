@@ -3,8 +3,7 @@
 
 ## 📁 Project Information
 **Name:** Amruta Pradip Patil  
-**Date of Submission:** 08/July/2025  
-**GitHub Repository:** *(Add your GitHub repo URL here)*
+**Date of Submission:** 010/July/2025  
 
 ---
 
@@ -89,7 +88,7 @@ Search results for "Amruta":
 Name                 Phone          Email                         
 -----------------------------------------------------------
 Amruta               7777852414     amruta02@gmail.com             
-Shahid               9999999998     amruta123@gmail.com          
+Amruta              9999999998     amruta123@gmail.com          
 ```
 
 ### ✏️ Editing a Contact
@@ -149,18 +148,8 @@ gcc main.c contact.c file.c populate.c -o addressbook
 
 **Amruta Pradip Patil**  
 🎓 Final-Year CSE Student | 🌐 IoT • C Programming • Embedded Systems  
-🛠️ e-Yantra Club Leader @ IIT Bombay  
-📍 Sangli, Maharashtra
+
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License – feel free to use and modify it.
-
----
-
-## ⭐ GitHub Tip
-
-If you find this project useful, please ⭐ star the repository and share your feedback!
 
